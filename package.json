@@ -34,7 +34,7 @@
 		"plugin-error": "^0.1.2",
 		"safe-buffer": "^5.1.1",
 		"through2": "^2.0.0",
-		"vulcanize": "TonyBogdanov/vulcanize#1.x"
+		"vulcanize": "TonyBogdanov/polymer-bundler#1.x"
 	},
 	"devDependencies": {
 		"del": "^3.0.0",
